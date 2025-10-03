@@ -1,0 +1,6418 @@
+{
+    "almacen": {
+        "634BL2150": {
+            "34": 23,
+            "36": 67,
+            "38": 73,
+            "40": 125,
+            "42": 65,
+            "44": 85,
+            "46": 49,
+            "48": 54,
+            "50": 53,
+            "52": 15,
+            "54": 53,
+            "56": 38,
+            "58": 35,
+            "60": 0,
+            "62": 0,
+            "64": 0
+        },
+        "634BL2152": {
+            "TALLA UNICA": 38
+        },
+        "634CH2158": {
+            "34": 30,
+            "36": 59,
+            "38": 63,
+            "40": 70,
+            "42": 40,
+            "44": 57,
+            "46": 39,
+            "48": 35,
+            "50": 48,
+            "52": 24,
+            "54": 34,
+            "56": 32,
+            "58": 0,
+            "60": 0,
+            "62": 0,
+            "64": 0,
+            "36 +5 CM": 0,
+            "38 +5 CM": 1,
+            "40 +5 CM": 2,
+            "42 +5 CM": 2,
+            "46 +5 CM": 1,
+            "36 +3 CM": 5,
+            "40 +3 CM": 3,
+            "42 +3 CM": 3,
+            "44 +3 CM": 3
+        },
+        "634CH2186": {
+            "42": 0,
+            "44": 51,
+            "46": 54,
+            "48": 18,
+            "50": 35,
+            "52": 42,
+            "54": 44,
+            "56": 32,
+            "58": 24,
+            "60": 28,
+            "62": 32,
+            "64": 0
+        },
+        "634FA2159": {
+            "34": 35,
+            "36": 49,
+            "38": 5,
+            "40": 115,
+            "42": 121,
+            "44": 36,
+            "46": 86,
+            "48": 29,
+            "50": 54,
+            "52": 36,
+            "54": 31,
+            "56": 47,
+            "58": 50,
+            "60": 0,
+            "62": 0,
+            "64": 0,
+            "40 +5 CM": 0
+        },
+        "634PA2160": {
+            "34": 42,
+            "36": 107,
+            "38": 4,
+            "40": 24,
+            "42": 66,
+            "44": 94,
+            "46": 103,
+            "48": 81,
+            "50": 13,
+            "52": 20,
+            "54": 41,
+            "56": 0,
+            "58": 0,
+            "60": 0,
+            "62": 0,
+            "64": 0,
+            "40 +5 CM": 0,
+            "36+10 CM": 0
+        },
+        "634BL2156B": {
+            "34": 4,
+            "36": 8,
+            "38": 3,
+            "40": 5,
+            "42": 4,
+            "44": 4,
+            "46": 4,
+            "48": 10,
+            "50": 4,
+            "52": 4,
+            "54": 8,
+            "56": 4,
+            "58": 4,
+            "60": 0,
+            "62": 0,
+            "64": 0
+        },
+        "634BL2156": {
+            "34": 15,
+            "36": 29,
+            "38": 46,
+            "40": 0,
+            "44": 46,
+            "42": 2,
+            "46": 25,
+            "48": 10,
+            "50": 40,
+            "52": 69,
+            "54": 1,
+            "56": 61,
+            "58": 54,
+            "60": 29,
+            "62": 39,
+            "64": 62
+        },
+        "634BL2157": {
+            "34": 2,
+            "36": 1,
+            "38": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0,
+            "46": 2,
+            "48": 1,
+            "50": 0,
+            "52": 2,
+            "54": 0,
+            "56": 0,
+            "58": 0,
+            "60": 0,
+            "62": 0,
+            "64": 0
+        },
+        "634CH2153": {
+            "34": 52,
+            "36": 99,
+            "38": 81,
+            "40": 98,
+            "42": 83,
+            "44": 68,
+            "46": 71,
+            "48": 39,
+            "50": 39,
+            "52": 34,
+            "54": 31,
+            "56": 26,
+            "58": 32,
+            "60": 34,
+            "62": 30,
+            "64": 0,
+            "38 +5 CM": 1,
+            "42 +5 CM": 1
+        },
+        "634FA2154": {
+            "34": 26,
+            "36": 33,
+            "38": 24,
+            "40": 89,
+            "42": 42,
+            "44": 19,
+            "46": 20,
+            "48": 19,
+            "50": 37,
+            "52": 17,
+            "54": 20,
+            "56": 26,
+            "58": 37,
+            "60": 35,
+            "62": 29,
+            "64": 38
+        },
+        "634PA2151": {
+            "34": 40,
+            "36": 23,
+            "38": 23,
+            "40": 23,
+            "42": 32,
+            "44": 22,
+            "46": 34,
+            "48": 33,
+            "50": 33,
+            "52": 21,
+            "54": 28,
+            "56": 15,
+            "58": 28,
+            "60": 29,
+            "62": 35,
+            "64": 33
+        },
+        "634PA2155": {
+            "34": 0,
+            "36": 1,
+            "38": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0,
+            "46": 0,
+            "48": 0,
+            "50": 0,
+            "52": 0,
+            "54": 0,
+            "56": 0,
+            "58": 0,
+            "60": 0,
+            "62": 0,
+            "64": 0
+        },
+        "NAN": {}
+    },
+    "historial_entradas": [
+        {
+            "modelo": "634BL2150",
+            "talla": "34",
+            "cantidad": 53,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "36",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "38",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "40",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "42",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "44",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "46",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "48",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "50",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "52",
+            "cantidad": 15,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "54",
+            "cantidad": 53,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "56",
+            "cantidad": 38,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "58",
+            "cantidad": 35,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "60",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "62",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "64",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2152",
+            "talla": "TALLA UNICA",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "34",
+            "cantidad": 40,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "36",
+            "cantidad": 89,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "38",
+            "cantidad": 123,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40",
+            "cantidad": 134,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "42",
+            "cantidad": 70,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "44",
+            "cantidad": 77,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "46",
+            "cantidad": 46,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "48",
+            "cantidad": 37,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "50",
+            "cantidad": 53,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "52",
+            "cantidad": 26,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "54",
+            "cantidad": 34,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "56",
+            "cantidad": 33,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "58",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "60",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "62",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "64",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "42",
+            "cantidad": 15,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "44",
+            "cantidad": 51,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "46",
+            "cantidad": 10,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "48",
+            "cantidad": 2,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "50",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "52",
+            "cantidad": 46,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "54",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "56",
+            "cantidad": 32,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "58",
+            "cantidad": 25,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "60",
+            "cantidad": 32,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "62",
+            "cantidad": 32,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "64",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "34",
+            "cantidad": 38,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "36",
+            "cantidad": 79,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "38",
+            "cantidad": 75,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "40",
+            "cantidad": 155,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "42",
+            "cantidad": 145,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "44",
+            "cantidad": 55,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "46",
+            "cantidad": 91,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "48",
+            "cantidad": 33,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "50",
+            "cantidad": 59,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "52",
+            "cantidad": 35,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "54",
+            "cantidad": 31,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "56",
+            "cantidad": 48,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "58",
+            "cantidad": 50,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "60",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "62",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "64",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "34",
+            "cantidad": 86,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "36",
+            "cantidad": 90,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "38",
+            "cantidad": 179,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "40",
+            "cantidad": 98,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "42",
+            "cantidad": 38,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "44",
+            "cantidad": 80,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "46",
+            "cantidad": 91,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "48",
+            "cantidad": 82,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "50",
+            "cantidad": 22,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "52",
+            "cantidad": 20,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "54",
+            "cantidad": 41,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "56",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "58",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "60",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "62",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "64",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "34",
+            "cantidad": 4,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "36",
+            "cantidad": 8,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "38",
+            "cantidad": 3,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "40",
+            "cantidad": 5,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "42",
+            "cantidad": 4,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "44",
+            "cantidad": 4,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "46",
+            "cantidad": 4,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "48",
+            "cantidad": 10,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "50",
+            "cantidad": 4,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "52",
+            "cantidad": 4,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "54",
+            "cantidad": 8,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "56",
+            "cantidad": 4,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "58",
+            "cantidad": 4,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "60",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "62",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156B",
+            "talla": "64",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "34",
+            "cantidad": 74,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "36",
+            "cantidad": 251,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "38",
+            "cantidad": 186,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 111,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "44",
+            "cantidad": 110,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "42",
+            "cantidad": 131,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 86,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "48",
+            "cantidad": 120,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "50",
+            "cantidad": 54,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "52",
+            "cantidad": 49,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "54",
+            "cantidad": 30,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "56",
+            "cantidad": 41,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "58",
+            "cantidad": 58,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "60",
+            "cantidad": 41,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "62",
+            "cantidad": 39,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "64",
+            "cantidad": 62,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "34",
+            "cantidad": 2,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "36",
+            "cantidad": 6,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "38",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "40",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "42",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "44",
+            "cantidad": 5,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "46",
+            "cantidad": 5,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "48",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "50",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "52",
+            "cantidad": 8,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "54",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "56",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "58",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "60",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "62",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "64",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "34",
+            "cantidad": 61,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "36",
+            "cantidad": 144,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "38",
+            "cantidad": 135,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "40",
+            "cantidad": 136,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "42",
+            "cantidad": 117,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "44",
+            "cantidad": 94,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "46",
+            "cantidad": 97,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "48",
+            "cantidad": 52,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "50",
+            "cantidad": 47,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "52",
+            "cantidad": 44,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "54",
+            "cantidad": 39,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "56",
+            "cantidad": 30,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "58",
+            "cantidad": 32,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "60",
+            "cantidad": 35,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "62",
+            "cantidad": 31,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "64",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "34",
+            "cantidad": 22,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "36",
+            "cantidad": 62,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "38",
+            "cantidad": 39,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "40",
+            "cantidad": 102,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "42",
+            "cantidad": 20,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "44",
+            "cantidad": 50,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "46",
+            "cantidad": 10,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "48",
+            "cantidad": 24,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "50",
+            "cantidad": 34,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "52",
+            "cantidad": 20,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "54",
+            "cantidad": 23,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "56",
+            "cantidad": 30,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "58",
+            "cantidad": 38,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "60",
+            "cantidad": 32,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "62",
+            "cantidad": 32,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "64",
+            "cantidad": 38,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "34",
+            "cantidad": 27,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "36",
+            "cantidad": 45,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "38",
+            "cantidad": 87,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "40",
+            "cantidad": 74,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "42",
+            "cantidad": 58,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "44",
+            "cantidad": 68,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "46",
+            "cantidad": 38,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "48",
+            "cantidad": 46,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "50",
+            "cantidad": 55,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "52",
+            "cantidad": 12,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "54",
+            "cantidad": 38,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "56",
+            "cantidad": 25,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "58",
+            "cantidad": 13,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "60",
+            "cantidad": 31,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "62",
+            "cantidad": 35,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "64",
+            "cantidad": 33,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "34",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "36",
+            "cantidad": 9,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "38",
+            "cantidad": 4,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "40",
+            "cantidad": 3,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "42",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "44",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "46",
+            "cantidad": 2,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "48",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "50",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "52",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "54",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "56",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "58",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "60",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "62",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "64",
+            "cantidad": 0,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-13"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "36 +5 CM",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-16"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "38 +5 CM",
+            "cantidad": 4,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-16"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40 +5 CM",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-16"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "42 +5 CM",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-16"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "46 +5 CM",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-16"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "36 +3 CM",
+            "cantidad": 5,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-16"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40 +3 CM",
+            "cantidad": 3,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-16"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "42 +3 CM",
+            "cantidad": 3,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-16"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "44 +3 CM",
+            "cantidad": 3,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-16"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "38 +5 CM",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-16"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "42 +5 CM",
+            "cantidad": 1,
+            "taller": "Stock Inicial",
+            "fecha": "2025-06-16"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "44",
+            "cantidad": 2,
+            "taller": "ANDRES",
+            "fecha": "2025-06-18"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "46",
+            "cantidad": 3,
+            "taller": "ANDRES",
+            "fecha": "2025-06-18"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "56",
+            "cantidad": 2,
+            "taller": "ANDRES",
+            "fecha": "2025-06-18"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "38",
+            "cantidad": 5,
+            "taller": "ANDRES",
+            "fecha": "2025-06-23"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "40",
+            "cantidad": 6,
+            "taller": "ANDRES",
+            "fecha": "2025-06-23"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "42",
+            "cantidad": 5,
+            "taller": "ANDRES",
+            "fecha": "2025-06-23"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "54",
+            "cantidad": 5,
+            "taller": "ANDRES",
+            "fecha": "2025-06-23"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "56",
+            "cantidad": 3,
+            "taller": "ANDRES",
+            "fecha": "2025-06-23"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "38",
+            "cantidad": 60,
+            "taller": "ANDRES",
+            "fecha": "2025-06-25"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 60,
+            "taller": "ANDRES",
+            "fecha": "2025-06-25"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 19,
+            "taller": "ANDRES",
+            "fecha": "2025-06-25"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "50",
+            "cantidad": 19,
+            "taller": "ANDRES",
+            "fecha": "2025-06-25"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "52",
+            "cantidad": 19,
+            "taller": "ANDRES",
+            "fecha": "2025-06-25"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "54",
+            "cantidad": 20,
+            "taller": "ANDRES",
+            "fecha": "2025-06-25"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "40",
+            "cantidad": 1,
+            "taller": "ANDRES",
+            "fecha": "2025-06-25"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "42",
+            "cantidad": 1,
+            "taller": "ANDRES",
+            "fecha": "2025-06-25"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "54",
+            "cantidad": 1,
+            "taller": "ANDRES",
+            "fecha": "2025-06-25"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "38 +5 CM",
+            "cantidad": 2,
+            "taller": "EDUARDO & TRINI",
+            "fecha": "2025-06-25"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40 +5 CM",
+            "cantidad": 2,
+            "taller": "EDUARDO & TRINI",
+            "fecha": "2025-06-25"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "36",
+            "cantidad": 78,
+            "taller": "Redondela",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "38",
+            "cantidad": 85,
+            "taller": "Redondela",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "40",
+            "cantidad": 88,
+            "taller": "Redondela",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "42",
+            "cantidad": 100,
+            "taller": "Redondela",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "44",
+            "cantidad": 75,
+            "taller": "Redondela",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "46",
+            "cantidad": 20,
+            "taller": "Redondela",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "36",
+            "cantidad": 22,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "44",
+            "cantidad": 25,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "46",
+            "cantidad": 24,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "48",
+            "cantidad": 29,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "50",
+            "cantidad": 53,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2152",
+            "talla": "TALLA UNICA",
+            "cantidad": 124,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-06-30"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "54",
+            "cantidad": 7,
+            "taller": "ANDRES",
+            "fecha": "2025-07-11"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "56",
+            "cantidad": 3,
+            "taller": "ANDRES",
+            "fecha": "2025-07-11"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "42",
+            "cantidad": 11,
+            "taller": "ANDRES",
+            "fecha": "2025-07-17"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "46",
+            "cantidad": 48,
+            "taller": "ANDRES",
+            "fecha": "2025-07-17"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "48",
+            "cantidad": 50,
+            "taller": "ANDRES",
+            "fecha": "2025-07-17"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "50",
+            "cantidad": 49,
+            "taller": "ANDRES",
+            "fecha": "2025-07-17"
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "54",
+            "cantidad": 50,
+            "taller": "ANDRES",
+            "fecha": "2025-07-17"
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "36",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "38",
+            "cantidad": 15,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 18,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 6,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "50",
+            "cantidad": 7,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "52",
+            "cantidad": 14,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "54",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "34",
+            "cantidad": 4,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "36",
+            "cantidad": 8,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "38",
+            "cantidad": 3,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "40",
+            "cantidad": 14,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "42",
+            "cantidad": 5,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "44",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "50",
+            "cantidad": 8,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "52",
+            "cantidad": 2,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "36",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "40",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "46",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "36",
+            "cantidad": 4,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "38",
+            "cantidad": 2,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "40",
+            "cantidad": 4,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "42",
+            "cantidad": 15,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "44",
+            "cantidad": 12,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "46",
+            "cantidad": 8,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40 +5 CM",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "42 +5 CM",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "38",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634BL2152",
+            "talla": "TALLA UNICA",
+            "cantidad": 3,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-18"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "38",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "40",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "46",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "48",
+            "cantidad": 2,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "36",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "42",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "46",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "50",
+            "cantidad": 3,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "52",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "38",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "42",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "48",
+            "cantidad": 3,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "52",
+            "cantidad": 1,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "56",
+            "cantidad": 3,
+            "taller": "REOPERADO",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "36",
+            "cantidad": 40,
+            "taller": "REDONDELA ENTREGA",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "38",
+            "cantidad": 40,
+            "taller": "REDONDELA ENTREGA",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "40",
+            "cantidad": 50,
+            "taller": "REDONDELA ENTREGA",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "42",
+            "cantidad": 40,
+            "taller": "REDONDELA ENTREGA",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "44",
+            "cantidad": 10,
+            "taller": "REDONDELA ENTREGA",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "48",
+            "cantidad": 10,
+            "taller": "REDONDELA ENTREGA",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "36",
+            "cantidad": 65,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "38",
+            "cantidad": 102,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "40",
+            "cantidad": 125,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "42",
+            "cantidad": 65,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "44",
+            "cantidad": 60,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "46",
+            "cantidad": 35,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "48",
+            "cantidad": 25,
+            "taller": "REDONDELA STOCK",
+            "fecha": "2025-07-23"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 2,
+            "taller": "AQUI",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "50",
+            "cantidad": 3,
+            "taller": "AQUI",
+            "fecha": "2025-07-22"
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "34",
+            "cantidad": 25,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "42",
+            "cantidad": 50,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "46",
+            "cantidad": 25,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "34",
+            "cantidad": 50,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "36",
+            "cantidad": 50,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "38",
+            "cantidad": 25,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "40",
+            "cantidad": 25,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "42",
+            "cantidad": 50,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "44",
+            "cantidad": 50,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "46",
+            "cantidad": 50,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "48",
+            "cantidad": 25,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "52",
+            "cantidad": 25,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "58",
+            "cantidad": 25,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "42",
+            "cantidad": 50,
+            "taller": "ANDRES",
+            "fecha": "2025-08-19",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "44",
+            "cantidad": 2,
+            "taller": "AQUI",
+            "fecha": "2025-08-21",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "38",
+            "cantidad": 1,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "34",
+            "cantidad": 2,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "36",
+            "cantidad": 2,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "38",
+            "cantidad": 1,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "42",
+            "cantidad": 1,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "44",
+            "cantidad": 1,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "52",
+            "cantidad": 1,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "34",
+            "cantidad": 1,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "36",
+            "cantidad": 5,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "38",
+            "cantidad": 1,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "40",
+            "cantidad": 6,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "42",
+            "cantidad": 11,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "44",
+            "cantidad": 4,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "46",
+            "cantidad": 2,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "48",
+            "cantidad": 1,
+            "fecha": "2025-08-28",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "38",
+            "cantidad": 6,
+            "fecha": "2025-08-28",
+            "taller": "AQUI NUEVO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "40",
+            "cantidad": 3,
+            "fecha": "2025-08-28",
+            "taller": "AQUI NUEVO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "42",
+            "cantidad": 2,
+            "fecha": "2025-08-28",
+            "taller": "AQUI NUEVO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "44",
+            "cantidad": 1,
+            "fecha": "2025-08-28",
+            "taller": "AQUI NUEVO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "50",
+            "cantidad": 2,
+            "fecha": "2025-08-28",
+            "taller": "AQUI NUEVO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "36",
+            "cantidad": 75,
+            "fecha": "2025-09-01",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "38",
+            "cantidad": 50,
+            "fecha": "2025-09-01",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 50,
+            "fecha": "2025-09-01",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "42",
+            "cantidad": 75,
+            "fecha": "2025-09-01",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "44",
+            "cantidad": 50,
+            "fecha": "2025-09-01",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 75,
+            "fecha": "2025-09-01",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "50",
+            "cantidad": 50,
+            "fecha": "2025-09-01",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "52",
+            "cantidad": 50,
+            "fecha": "2025-09-01",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "56",
+            "cantidad": 50,
+            "fecha": "2025-09-01",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "36",
+            "cantidad": 2,
+            "fecha": "2025-09-02",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "38",
+            "cantidad": 2,
+            "fecha": "2025-09-02",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "40",
+            "cantidad": 6,
+            "fecha": "2025-09-02",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "42",
+            "cantidad": 6,
+            "fecha": "2025-09-02",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "44",
+            "cantidad": 1,
+            "fecha": "2025-09-02",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "50",
+            "cantidad": 2,
+            "fecha": "2025-09-02",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "54",
+            "cantidad": 3,
+            "fecha": "2025-09-02",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "56",
+            "cantidad": 2,
+            "fecha": "2025-09-02",
+            "taller": "PIN",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "34",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "36",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "40",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "42",
+            "cantidad": 11,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "52",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "34",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "42",
+            "cantidad": 5,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "60",
+            "cantidad": 3,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "42",
+            "cantidad": 10,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "50",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "36",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "54",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "36",
+            "cantidad": 58,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "42",
+            "cantidad": 13,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "38",
+            "cantidad": 25,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "40",
+            "cantidad": 2,
+            "fecha": "2025-09-05",
+            "taller": "CONTROL STOCK",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "44",
+            "cantidad": 8,
+            "fecha": "2025-09-12",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "46",
+            "cantidad": 12,
+            "fecha": "2025-09-12",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "40 +5 CM",
+            "cantidad": 1,
+            "fecha": "2025-09-12",
+            "taller": "AQUI NUEVO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "36+10 CM",
+            "cantidad": 1,
+            "fecha": "2025-09-12",
+            "taller": "AQUI NUEVO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "64",
+            "cantidad": 4,
+            "fecha": "2025-09-15",
+            "taller": "AQUI NUEVO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "44",
+            "cantidad": 1,
+            "fecha": "2025-09-16",
+            "taller": "",
+            "proveedor": "",
+            "observaciones": "Ajuste auditoría | antes=0 despues=-1 delta=-1",
+            "ajuste": true,
+            "origen": "regularizacion_auditoria"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "54",
+            "cantidad": 6,
+            "fecha": "2025-09-16",
+            "taller": "",
+            "proveedor": "",
+            "observaciones": "Ajuste auditoría | antes=0 despues=-6 delta=-6",
+            "ajuste": true,
+            "origen": "regularizacion_auditoria"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "56",
+            "cantidad": 3,
+            "fecha": "2025-09-16",
+            "taller": "",
+            "proveedor": "",
+            "observaciones": "Ajuste auditoría | antes=0 despues=-3 delta=-3",
+            "ajuste": true,
+            "origen": "regularizacion_auditoria"
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "36 +5 CM",
+            "cantidad": 1,
+            "fecha": "2025-09-17",
+            "taller": "AQUI NUEVO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "40 +5 CM",
+            "cantidad": 1,
+            "fecha": "2025-09-17",
+            "taller": "AQUI NUEVO",
+            "proveedor": "",
+            "observaciones": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 21,
+            "fecha": "2025-09-25",
+            "taller": "AQUI REOPERADO",
+            "proveedor": "",
+            "observaciones": "Reoperado"
+        },
+        {
+            "modelo": "NAN",
+            "talla": "NAN",
+            "cantidad": 609,
+            "fecha": "2025-09-26",
+            "taller": "",
+            "proveedor": "",
+            "observaciones": "Ajuste auditoría (GUI) | antes=0 despues=-609 delta=-609",
+            "ajuste": true,
+            "origen": "regularizacion_auditoria"
+        }
+    ],
+    "historial_salidas": [
+        {
+            "modelo": "634BL2156",
+            "talla": "34",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "36",
+            "cantidad": 60,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "38",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "42",
+            "cantidad": 50,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "44",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "48",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "50",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "52",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "54",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "60",
+            "cantidad": 4,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "56",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "58",
+            "cantidad": 4,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "34",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "36",
+            "cantidad": 120,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "38",
+            "cantidad": 150,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 80,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "44",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "48",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "36",
+            "cantidad": 6,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "46",
+            "cantidad": 3,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "52",
+            "cantidad": 3,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "54",
+            "cantidad": 6,
+            "fecha": "2025-06-26",
+            "pedido": "00126/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "56",
+            "cantidad": 3,
+            "fecha": "2025-06-26",
+            "pedido": "00126/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "34",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "36",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "38",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "40",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "42",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "44",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "46",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "48",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "50",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "52",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "54",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "56",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "34",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "36",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "38",
+            "cantidad": 15,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "40",
+            "cantidad": 15,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "42",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "44",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "46",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "48",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "50",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "52",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "54",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "56",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "60",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00127/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "34",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "36",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "38",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "40",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "42",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "44",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "34",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "36",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "40",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "42",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "44",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "46",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "56",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "34",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "36",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "38",
+            "cantidad": 35,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "40",
+            "cantidad": 35,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "42",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "44",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "46",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "48",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "50",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "52",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "54",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "60",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "56",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "58",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "34",
+            "cantidad": 12,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "36",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "38",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "40",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "42",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "44",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "46",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "48",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "50",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "52",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "54",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "56",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "58",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "36",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "38",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "40",
+            "cantidad": 3,
+            "fecha": "2025-06-26",
+            "pedido": "00098/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "36",
+            "cantidad": 4,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "38",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "50",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00113/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "56",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00126/2025",
+            "albaran": "1252488",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "36",
+            "cantidad": 8,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "38",
+            "cantidad": 44,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 28,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "42",
+            "cantidad": 44,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "44",
+            "cantidad": 24,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 34,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "48",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "50",
+            "cantidad": 4,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "52",
+            "cantidad": 4,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "60",
+            "cantidad": 4,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "36",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "38",
+            "cantidad": 4,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "40",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "42",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "44",
+            "cantidad": 6,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "46",
+            "cantidad": 6,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "48",
+            "cantidad": 3,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "50",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "52",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "54",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "34",
+            "cantidad": 6,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "36",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "38",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "42",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "44",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "50",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "56",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "38 +5 CM",
+            "cantidad": 5,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40 +5 CM",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "36 +5 CM",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "42",
+            "cantidad": 4,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "48",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "36",
+            "cantidad": 2,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "38",
+            "cantidad": 9,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "40",
+            "cantidad": 7,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "42",
+            "cantidad": 4,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "44",
+            "cantidad": 8,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "46",
+            "cantidad": 4,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "48",
+            "cantidad": 3,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "52",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "54",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "36",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "38",
+            "cantidad": 40,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "40",
+            "cantidad": 20,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "42",
+            "cantidad": 15,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "56",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "36",
+            "cantidad": 4,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "38",
+            "cantidad": 13,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "40",
+            "cantidad": 7,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "42",
+            "cantidad": 7,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "44",
+            "cantidad": 11,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "46",
+            "cantidad": 6,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "48",
+            "cantidad": 3,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "52",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "54",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00342/2025",
+            "albaran": "1252487",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "36",
+            "cantidad": 1,
+            "fecha": "2025-06-26",
+            "pedido": "00202/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "40",
+            "cantidad": 8,
+            "fecha": "2025-06-26",
+            "pedido": "00202/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "42",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00202/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "34",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "36",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "38",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "40",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "42",
+            "cantidad": 30,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "46",
+            "cantidad": 10,
+            "fecha": "2025-06-26",
+            "pedido": "00285/2025",
+            "albaran": "1252487",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "42",
+            "cantidad": 40,
+            "fecha": "2025-06-30",
+            "pedido": "00064/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "36",
+            "cantidad": 38,
+            "fecha": "2025-06-30",
+            "pedido": "00202/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "38",
+            "cantidad": 45,
+            "fecha": "2025-06-30",
+            "pedido": "00202/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "40",
+            "cantidad": 38,
+            "fecha": "2025-06-30",
+            "pedido": "00202/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "42",
+            "cantidad": 49,
+            "fecha": "2025-06-30",
+            "pedido": "00202/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "44",
+            "cantidad": 55,
+            "fecha": "2025-06-30",
+            "pedido": "00202/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "36",
+            "cantidad": 40,
+            "fecha": "2025-06-30",
+            "pedido": "00285/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "38",
+            "cantidad": 40,
+            "fecha": "2025-06-30",
+            "pedido": "00285/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "40",
+            "cantidad": 50,
+            "fecha": "2025-06-30",
+            "pedido": "00285/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "42",
+            "cantidad": 11,
+            "fecha": "2025-06-30",
+            "pedido": "00285/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "44",
+            "cantidad": 20,
+            "fecha": "2025-06-30",
+            "pedido": "00285/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "46",
+            "cantidad": 19,
+            "fecha": "2025-06-30",
+            "pedido": "00285/2025",
+            "albaran": "1252567",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "52",
+            "cantidad": 19,
+            "fecha": "2025-07-11",
+            "pedido": "00098/2025",
+            "albaran": "1252853",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "56",
+            "cantidad": 13,
+            "fecha": "2025-07-11",
+            "pedido": "00098/2025",
+            "albaran": "1252853",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "54",
+            "cantidad": 6,
+            "fecha": "2025-07-11",
+            "pedido": "00126/2025",
+            "albaran": "1252853",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "56",
+            "cantidad": 3,
+            "fecha": "2025-07-11",
+            "pedido": "00126/2025",
+            "albaran": "1252853",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "40",
+            "cantidad": 8,
+            "fecha": "2025-07-11",
+            "pedido": "00285/2025",
+            "albaran": "1252852",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "42",
+            "cantidad": 11,
+            "fecha": "2025-07-11",
+            "pedido": "00285/2025",
+            "albaran": "1252852",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "38",
+            "cantidad": 21,
+            "pedido": "ARREGLO",
+            "albaran": "060/2025",
+            "fecha": "2025-07-11",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 19,
+            "pedido": "ARREGLO",
+            "albaran": "060/2025",
+            "fecha": "2025-07-11",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "50",
+            "cantidad": 19,
+            "pedido": "ARREGLO",
+            "albaran": "060/2025",
+            "fecha": "2025-07-11",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "54",
+            "cantidad": 20,
+            "pedido": "ARREGLO",
+            "albaran": "060/2025",
+            "fecha": "2025-07-11",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "38",
+            "cantidad": 5,
+            "pedido": "TARA",
+            "albaran": "TARA",
+            "fecha": "2025-07-18",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "42",
+            "cantidad": 5,
+            "pedido": "TARA",
+            "albaran": "TARA",
+            "fecha": "2025-07-18",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "44",
+            "cantidad": 2,
+            "pedido": "TARA",
+            "albaran": "TARA",
+            "fecha": "2025-07-18",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "40",
+            "cantidad": 6,
+            "pedido": "TARA",
+            "albaran": "TARA",
+            "fecha": "2025-07-18",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "54",
+            "cantidad": 1,
+            "pedido": "TARA",
+            "albaran": "TARA",
+            "fecha": "2025-07-18",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "44",
+            "cantidad": 1,
+            "pedido": "TARA",
+            "albaran": "TARA",
+            "fecha": "2025-07-18",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "38",
+            "cantidad": 20,
+            "fecha": "2025-07-28",
+            "pedido": "00285/2025",
+            "albaran": "1252872",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "40",
+            "cantidad": 10,
+            "fecha": "2025-07-28",
+            "pedido": "00285/2025",
+            "albaran": "1252872",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "42",
+            "cantidad": 19,
+            "fecha": "2025-07-28",
+            "pedido": "00285/2025",
+            "albaran": "1252872",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "36",
+            "cantidad": 40,
+            "fecha": "2025-07-28",
+            "pedido": "00375/2025",
+            "albaran": "1252872",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "38",
+            "cantidad": 20,
+            "fecha": "2025-07-28",
+            "pedido": "00375/2025",
+            "albaran": "1252872",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "40",
+            "cantidad": 40,
+            "fecha": "2025-07-28",
+            "pedido": "00375/2025",
+            "albaran": "1252872",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "42",
+            "cantidad": 20,
+            "fecha": "2025-07-28",
+            "pedido": "00375/2025",
+            "albaran": "1252872",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "44",
+            "cantidad": 10,
+            "fecha": "2025-07-28",
+            "pedido": "00375/2025",
+            "albaran": "1252872",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "48",
+            "cantidad": 10,
+            "fecha": "2025-07-28",
+            "pedido": "00375/2025",
+            "albaran": "1252872",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2152",
+            "talla": "TALLA UNICA",
+            "cantidad": 40,
+            "fecha": "2025-07-28",
+            "pedido": "00375/2025",
+            "albaran": "1252872",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "34",
+            "cantidad": 20,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "36",
+            "cantidad": 50,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "42",
+            "cantidad": 20,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "44",
+            "cantidad": 30,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 20,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "48",
+            "cantidad": 20,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "50",
+            "cantidad": 40,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "52",
+            "cantidad": 20,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "38",
+            "cantidad": 1,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "42",
+            "cantidad": 1,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "44",
+            "cantidad": 3,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "54",
+            "cantidad": 6,
+            "fecha": "2025-08-01",
+            "pedido": "00126/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "56",
+            "cantidad": 3,
+            "fecha": "2025-08-01",
+            "pedido": "00126/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "34",
+            "cantidad": 2,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "36",
+            "cantidad": 3,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "38",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "34",
+            "cantidad": 10,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "36",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "42",
+            "cantidad": 6,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "44",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "48",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "50",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "52",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "54",
+            "cantidad": 2,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "56",
+            "cantidad": 2,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "34",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "36",
+            "cantidad": 3,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "38",
+            "cantidad": 10,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "40",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "42",
+            "cantidad": 1,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "44",
+            "cantidad": 7,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "46",
+            "cantidad": 10,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "48",
+            "cantidad": 10,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "50",
+            "cantidad": 10,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "52",
+            "cantidad": 1,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "44",
+            "cantidad": 1,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "46",
+            "cantidad": 3,
+            "fecha": "2025-08-01",
+            "pedido": "00117/2025",
+            "albaran": "1252878",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "34",
+            "cantidad": 30,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": ""
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "34",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "36",
+            "cantidad": 10,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "38",
+            "cantidad": 30,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40",
+            "cantidad": 30,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "42",
+            "cantidad": 15,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "44",
+            "cantidad": 10,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "46",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "48",
+            "cantidad": 2,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "50",
+            "cantidad": 2,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "48",
+            "cantidad": 18,
+            "fecha": "2025-08-01",
+            "pedido": "00285/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "42",
+            "cantidad": 10,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "46",
+            "cantidad": 4,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "48",
+            "cantidad": 14,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "50",
+            "cantidad": 14,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "52",
+            "cantidad": 4,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "58",
+            "cantidad": 1,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "42",
+            "cantidad": 10,
+            "fecha": "2025-08-01",
+            "pedido": "00444/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "34",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "36",
+            "cantidad": 20,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "38",
+            "cantidad": 30,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "40",
+            "cantidad": 20,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "42",
+            "cantidad": 20,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "44",
+            "cantidad": 20,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "46",
+            "cantidad": 5,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "48",
+            "cantidad": 4,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "50",
+            "cantidad": 2,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "34",
+            "cantidad": 35,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "36",
+            "cantidad": 20,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "38",
+            "cantidad": 40,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "40",
+            "cantidad": 40,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "42",
+            "cantidad": 10,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "44",
+            "cantidad": 10,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "50",
+            "cantidad": 2,
+            "fecha": "2025-08-01",
+            "pedido": "00375/2025",
+            "albaran": "1252879",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "36",
+            "cantidad": 40,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "38",
+            "cantidad": 20,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 30,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "42",
+            "cantidad": 30,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "44",
+            "cantidad": 30,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 40,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "48",
+            "cantidad": 10,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "50",
+            "cantidad": 10,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "60",
+            "cantidad": 4,
+            "fecha": "2025-09-01",
+            "pedido": "00146/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "38",
+            "cantidad": 2,
+            "fecha": "2025-09-01",
+            "pedido": "00117/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "40",
+            "cantidad": 4,
+            "fecha": "2025-09-01",
+            "pedido": "00117/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "42",
+            "cantidad": 3,
+            "fecha": "2025-09-01",
+            "pedido": "00117/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "36",
+            "cantidad": 1,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "40",
+            "cantidad": 2,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "42",
+            "cantidad": 3,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "44",
+            "cantidad": 3,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "50",
+            "cantidad": 3,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "52",
+            "cantidad": 3,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "54",
+            "cantidad": 3,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "56",
+            "cantidad": 2,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "42",
+            "cantidad": 9,
+            "fecha": "2025-09-01",
+            "pedido": "00117/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "46",
+            "cantidad": 5,
+            "fecha": "2025-09-01",
+            "pedido": "00117/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "34",
+            "cantidad": 5,
+            "fecha": "2025-09-01",
+            "pedido": "00117/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "36",
+            "cantidad": 12,
+            "fecha": "2025-09-01",
+            "pedido": "00117/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "42",
+            "cantidad": 9,
+            "fecha": "2025-09-01",
+            "pedido": "00117/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "44",
+            "cantidad": 8,
+            "fecha": "2025-09-01",
+            "pedido": "00117/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "52",
+            "cantidad": 4,
+            "fecha": "2025-09-01",
+            "pedido": "00117/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "34",
+            "cantidad": 5,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "36",
+            "cantidad": 10,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "38",
+            "cantidad": 10,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "40",
+            "cantidad": 10,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "42",
+            "cantidad": 10,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "44",
+            "cantidad": 20,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "46",
+            "cantidad": 20,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "48",
+            "cantidad": 10,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "50",
+            "cantidad": 5,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "38",
+            "cantidad": 6,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "40",
+            "cantidad": 3,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "42",
+            "cantidad": 2,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "44",
+            "cantidad": 2,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "46",
+            "cantidad": 2,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2155",
+            "talla": "50",
+            "cantidad": 2,
+            "fecha": "2025-09-01",
+            "pedido": "00135/2025",
+            "albaran": "1253082",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "60",
+            "cantidad": 4,
+            "fecha": "2025-09-01",
+            "pedido": "00653/2025",
+            "albaran": "1253083",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "42",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "46",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "38",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "54",
+            "cantidad": 10,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "38",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "46",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2153",
+            "talla": "62",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "42",
+            "cantidad": 2,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "44",
+            "cantidad": 4,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "46",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "58",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2154",
+            "talla": "62",
+            "cantidad": 3,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "36",
+            "cantidad": 2,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "38",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "52",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "38",
+            "cantidad": 83,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "64",
+            "cantidad": 1,
+            "fecha": "2025-09-05",
+            "pedido": "CONTROL STOCK",
+            "albaran": "0",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 33,
+            "fecha": "2025-09-16",
+            "pedido": "AJUSTE",
+            "albaran": "AJUSTE",
+            "cliente": "",
+            "ajuste": true,
+            "origen": "regularizacion_auditoria",
+            "observaciones": "Ajuste auditoría | antes=39 despues=72 delta=+33"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "40",
+            "cantidad": 1,
+            "fecha": "2025-09-16",
+            "pedido": "AJUSTE",
+            "albaran": "AJUSTE",
+            "cliente": "",
+            "ajuste": true,
+            "origen": "regularizacion_auditoria",
+            "observaciones": "Ajuste auditoría | antes=0 despues=1 delta=+1"
+        },
+        {
+            "modelo": "634BL2157",
+            "talla": "42",
+            "cantidad": 1,
+            "fecha": "2025-09-16",
+            "pedido": "AJUSTE",
+            "albaran": "AJUSTE",
+            "cliente": "",
+            "ajuste": true,
+            "origen": "regularizacion_auditoria",
+            "observaciones": "Ajuste auditoría | antes=0 despues=1 delta=+1"
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "36",
+            "cantidad": 20,
+            "fecha": "2025-09-25",
+            "pedido": "00156/2025",
+            "albaran": "1253089",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 39,
+            "fecha": "2025-09-25",
+            "pedido": "00156/2025",
+            "albaran": "1253089",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "42",
+            "cantidad": 60,
+            "fecha": "2025-09-25",
+            "pedido": "00156/2025",
+            "albaran": "1253089",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "46",
+            "cantidad": 10,
+            "fecha": "2025-09-25",
+            "pedido": "00156/2025",
+            "albaran": "1253089",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634PA2151",
+            "talla": "36",
+            "cantidad": 5,
+            "fecha": "2025-09-25",
+            "pedido": "00156/2025",
+            "albaran": "1253089",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "38",
+            "cantidad": 10,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "40",
+            "cantidad": 5,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "42",
+            "cantidad": 5,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "46",
+            "cantidad": 2,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "48",
+            "cantidad": 2,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "50",
+            "cantidad": 2,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "52",
+            "cantidad": 2,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2158",
+            "talla": "36 +5 CM",
+            "cantidad": 1,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "54",
+            "cantidad": 6,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634CH2186",
+            "talla": "64",
+            "cantidad": 4,
+            "fecha": "2025-09-25",
+            "pedido": "00653/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "50",
+            "cantidad": 4,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634FA2159",
+            "talla": "40 +5 CM",
+            "cantidad": 1,
+            "fecha": "2025-09-25",
+            "pedido": "00653/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "38",
+            "cantidad": 20,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "48",
+            "cantidad": 2,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "50",
+            "cantidad": 7,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "40 +5 CM",
+            "cantidad": 1,
+            "fecha": "2025-09-25",
+            "pedido": "00653/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "36+10 CM",
+            "cantidad": 1,
+            "fecha": "2025-09-25",
+            "pedido": "00653/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634PA2160",
+            "talla": "38",
+            "cantidad": 30,
+            "fecha": "2025-09-25",
+            "pedido": "00728/2025",
+            "albaran": "1253090",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "NAN",
+            "talla": "NAN",
+            "cantidad": 239,
+            "fecha": "",
+            "pedido": "nan",
+            "albaran": "nan",
+            "cliente": ""
+        },
+        {
+            "modelo": "NAN",
+            "talla": "NAN",
+            "cantidad": 239,
+            "fecha": "",
+            "pedido": "",
+            "albaran": "",
+            "cliente": ""
+        },
+        {
+            "modelo": "634BL2156",
+            "talla": "40",
+            "cantidad": 21,
+            "fecha": "2025-09-25",
+            "pedido": "00156/2025",
+            "albaran": "1253089",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "36",
+            "cantidad": 20,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253091",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "38",
+            "cantidad": 30,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253091",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2150",
+            "talla": "46",
+            "cantidad": 10,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253091",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "634BL2152",
+            "talla": "TALLA UNICA",
+            "cantidad": 50,
+            "fecha": "2025-09-25",
+            "pedido": "00652/2025",
+            "albaran": "1253091",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        {
+            "modelo": "NAN",
+            "talla": "NAN",
+            "cantidad": 131,
+            "fecha": "",
+            "pedido": "",
+            "albaran": "",
+            "cliente": ""
+        }
+    ],
+    "info_modelos": {
+        "634BL2150": {
+            "descripcion": "BLUSA M/COMBI JB",
+            "color": "PIEDRA",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        "634BL2152": {
+            "descripcion": "DELANTAL CUBE JB",
+            "color": "BICOLOR",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        "634CH2158": {
+            "descripcion": "AMERICANA SRA TAILLEUR JB",
+            "color": "MARINO",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        "634CH2186": {
+            "descripcion": "CHALECO CUBE JB",
+            "color": "BICOLOR",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        "634FA2159": {
+            "descripcion": "FALDA SRA SLIM JB",
+            "color": "MARINO",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        "634PA2160": {
+            "descripcion": "PANTALON SRA STRAIGHT JB",
+            "color": "MARINO",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        "634BL2156B": {
+            "descripcion": "BLUSA M/C SRA AE",
+            "color": "PIEDRA",
+            "cliente": "AIR EUROPA HOLDING S.L.U."
+        },
+        "634BL2156": {
+            "descripcion": "BLUSA M/C SRA REFLEX BLUE JB",
+            "color": "AZULON",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        "634BL2157": {
+            "descripcion": "BLUSA AJUSTABLE JB",
+            "color": "AZULON",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        "634CH2153": {
+            "descripcion": "AMERICANA SRA NEGRO JB",
+            "color": "NEGRO",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        "634FA2154": {
+            "descripcion": "FALDA SRA NEGRO JB",
+            "color": "NEGRO",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        "634PA2151": {
+            "descripcion": "PANTALON SRA NEGRO JB",
+            "color": "NEGRO",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        },
+        "634PA2155": {
+            "descripcion": "PANTALON CON ELASTICO JB",
+            "color": "NEGRO",
+            "cliente": "GLOBALIA HANDLING S.A.U."
+        }
+    }
+}
