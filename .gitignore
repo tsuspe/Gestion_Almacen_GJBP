@@ -1,0 +1,48 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# Entornos
+.venv/
+venv/
+venv_build/
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+
+# --- Build / Empaquetado / PyInstaller ---
+build/
+dist/
+*.spec
+*.whl
+
+# --- Ejecutables / binarios ---
+*.exe
+
+# --- Logs / temporales ---
+*.log
+*.tmp
+*.bak
+
+# --- Sistema operativo / Windows / macOS ---
+.DS_Store
+Thumbs.db
+*.lnk
+
+# --- Streamlit ---
+.streamlit/
+
+# --- Office (si estos Excel no son “fuente” del proyecto) ---
+*.xlsx
+*.xls
+*.docx
+*.pptx
+
+# --- Copias y backups ---
+backups/
+Copiar_aqui_versiones_anteriores_antes_de_modificar/

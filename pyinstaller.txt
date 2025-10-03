@@ -1,0 +1,12 @@
+pyinstaller --onefile gestor_oop.py
+
+
+streamlit run st_app_final.py
+
+
+
+streamlit run st_app_final.py ^
+  --server.address=192.168.1.37 ^
+  --server.port=8501 ^
+  --server.enableCORS=false ^
+  --server.enableXsrfProtection=false
