@@ -58,6 +58,7 @@ def _run_export_all(mgr: GestorStock):
         if hasattr(mgr, "_exportar_todos_los_datos"):
             mgr._exportar_todos_los_datos()
             _success(f"Exportación completa realizada en: {getattr(mgr, 'EXPORT_DIR', '(ruta no definida)')}")
+            set_last_update(mgr, "Exportación CSV (pack completo)")
         else:
             _error("El backend no expone '_exportar_todos_los_datos'. Actualiza gestor_oop.py.")
     except Exception as e:
@@ -75,6 +76,39 @@ def _run_export_stock_negativo(mgr: GestorStock):
 
 def _timestamp() -> str:
     return datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+# --- Last Update (persistente en disco) ---
+def _meta_path(mgr) -> str:
+    base = os.path.dirname(mgr.ds_inventario.path)
+    return os.path.join(base, "last_update.json")
+
+def set_last_update(mgr, action: str, meta: dict | None = None):
+    now = datetime.now()
+    data = {
+        "timestamp_iso": now.isoformat(timespec="seconds"),
+        "timestamp_human": now.strftime("%d/%m/%Y %H:%M"),
+        "action": action,
+    }
+    if meta:
+        data.update(meta)
+    try:
+        with open(_meta_path(mgr), "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
+    st.session_state["last_update"] = data
+    return data
+
+def get_last_update(mgr):
+    if "last_update" in st.session_state:
+        return st.session_state["last_update"]
+    try:
+        with open(_meta_path(mgr), "r", encoding="utf-8") as f:
+            st.session_state["last_update"] = json.load(f)
+            return st.session_state["last_update"]
+    except Exception:
+        return None
+
     
 def _modo_dup_key(txt: str) -> str:
     return {"Descontar diferencia (recomendado)":"d",
@@ -188,6 +222,8 @@ def _procesar_albaranes_df(df: pd.DataFrame, modo_txt: str, simular: bool):
 
     if not simular:
         _success(f"Importación completada: {nuevas_salidas} movimientos de albaranes procesados.")
+        set_last_update(mgr, f"Importación albaranes: {nuevas_salidas} movimientos")
+        st.rerun()    
     else:
         _info(f"Simulación: se procesarían {nuevas_salidas} movimientos.")
 
@@ -201,7 +237,7 @@ def _procesar_pedidos_df(df: pd.DataFrame, simular: bool):
         return
 
     ya = {(str(p.get("modelo","")).strip().upper(), norm_talla(p.get("talla","")), p.get("pedido",""))
-          for p in mgr.prevision.pedidos}
+        for p in mgr.prevision.pedidos}
     nuevos, duplicados = 0, 0
     import_rows = []
 
@@ -234,6 +270,8 @@ def _procesar_pedidos_df(df: pd.DataFrame, simular: bool):
 
     if not simular:
         _success(f"Importación completada: {nuevos} nuevos pedidos añadidos. Ignorados duplicados: {duplicados}.")
+        set_last_update(mgr, f"Importación pedidos: {nuevos} nuevos, {duplicados} duplicados")
+        st.rerun()
     else:
         _info(f"Simulación: se añadirían {nuevos} pedidos nuevos. Ignorados duplicados: {duplicados}.")
 
@@ -243,8 +281,8 @@ def _procesar_pedidos_df(df: pd.DataFrame, simular: bool):
 def _modelo_labels_y_map(mgr):
     """
     Devuelve:
-      - labels: lista de strings para el select ["M123 | Zapatilla - ROJO", ...]
-      - label2model: dict {label -> "M123"}
+    - labels: lista de strings para el select ["M123 | Zapatilla - ROJO", ...]
+    - label2model: dict {label -> "M123"}
     Usa info_modelos y, si está vacío, cae a los modelos presentes en el almacén.
     """
     info = mgr.inventory.info_modelos
@@ -326,9 +364,9 @@ def parse_index_selection(s: str, max_idx: int) -> List[int]:
 def _tallas_disponibles(mgr: GestorStock, modelo: str) -> List[str]:
     """
     Devuelve las tallas conocidas para un modelo, recopiladas de:
-      - Stock (almacén)
-      - Pedidos pendientes
-      - Órdenes de fabricación
+    - Stock (almacén)
+    - Pedidos pendientes
+    - Órdenes de fabricación
     """
     modelo = (modelo or "").upper().strip()
     tallas = set()
@@ -364,8 +402,8 @@ def _tallas_disponibles(mgr: GestorStock, modelo: str) -> List[str]:
 def talla_select(label: str, modelo: str, key_sel: str, key_txt: str, allow_manual: bool = True) -> str:
     """
     Widget combinado:
-      - Si hay tallas conocidas del modelo -> selectbox con opción de 'escribir manual'
-      - Si no hay tallas -> text_input directo
+    - Si hay tallas conocidas del modelo -> selectbox con opción de 'escribir manual'
+    - Si no hay tallas -> text_input directo
     Devuelve SIEMPRE la talla elegida/escrita (string).
     """
     opciones = _tallas_disponibles(mgr, modelo)
@@ -471,7 +509,7 @@ def _fix_negativos_a_cero_gui(mgr: GestorStock) -> Tuple[int, str, List[Dict]]:
 def _purge_bad_talla_keys_gui(mgr: GestorStock, only_zero: bool = True) -> Tuple[int, str, List[Dict]]:
     """
     Elimina del JSON las entradas con claves de talla anómalas:
-      None, NaN, "", "NAN", "NA", "NULL".
+    None, NaN, "", "NAN", "NA", "NULL".
     Por defecto solo elimina si el valor de stock == 0 (only_zero=True).
     Devuelve (n_borradas, ruta_log, log_rows).
     """
@@ -608,7 +646,23 @@ def _auto_qty_col(df, candidates=None):
 # UI
 # --------------
 st.set_page_config(page_title="Gestor de Stock (GUI)", layout="wide")
-st.title("🧰 Gestor de Stock y Previsión — UNIFORMIDAD - GLOBALIA")
+# Cabecera con banner de "Última actualización"
+col_title, col_status = st.columns([3, 2])
+with col_title:
+    st.title("🧰 Gestor de Stock y Previsión — UNIFORMIDAD - GLOBALIA")
+with col_status:
+    lu = get_last_update(st.session_state["manager"]) if "manager" in st.session_state else None
+    html = """
+    <div style="background:#f6f7fb;padding:10px 12px;border:1px solid #e6e6e6;
+                border-radius:8px;font-size:14px;text-align:right;">
+        <b>Última actualización:</b> {when} — {what}
+    </div>
+    """.format(
+        when=(lu.get("timestamp_human") if lu else "—"),
+        what=(lu.get("action") if lu else "—")
+    )
+    st.markdown(html, unsafe_allow_html=True)
+
 
 with st.sidebar:
     st.header("📂 Archivos")
@@ -797,6 +851,7 @@ with tab_stock:
                         n = mgr.inventory.apply_stock_fixes(cambios)
 
                         _success(f"Ajuste aplicado. Registros modificados: {n}")
+                        set_last_update(mgr, f"Ajuste stock {m_m} T:{m_t} Δ{int(nuevo) - int(actual)}")
                         st.rerun()  # refresca para que “Stock actual” se actualice al instante
 
                 except Exception as e:
@@ -844,6 +899,9 @@ with tab_movs:
                         taller=taller, fecha=fecha or None, proveedor="", observaciones=obs,
                     )
                     _success("Entrada registrada.")
+                    set_last_update(mgr, f"Entrada {modelo} T:{talla} +{int(cantidad)}")
+                    st.rerun()
+
                 except Exception as e:
                     _error(f"Error registrando entrada: {e}")
 
@@ -882,6 +940,10 @@ with tab_movs:
                         albaran=norm_codigo(albaran), fecha=fecha or None,
                     )
                     _success("Salida registrada." if ok else "No se pudo registrar la salida.")
+                    if ok:
+                        set_last_update(mgr, f"Salida {modelo} T:{talla} -{int(cant)} Ped:{pedido} Alb:{albaran}")
+                    st.rerun()
+
                 except Exception as e:
                     _error(f"Error registrando salida: {e}")
 
@@ -933,7 +995,7 @@ with tab_prevision:
             "CLIENTE": p.get("cliente", ""),
             "FECHA": p.get("fecha", ""),
         })
-   
+
     cols = ["IDX","MODELO","DESCRIPCION","COLOR","TALLA","CANTIDAD","PEDIDO","NUMERO_PEDIDO","CLIENTE","FECHA"]
     if pend_rows:
         df_pend = _to_df(pend_rows)
@@ -977,6 +1039,7 @@ with tab_prevision:
                     fecha=p_fecha or None, numero_pedido=norm_codigo(p_num_int) or None
                 )
                 _success("Pedido pendiente añadido.")
+                set_last_update(mgr, f"Pendiente + {p_modelo} T:{p_talla} Q:{int(p_cant)} Ped:{p_pedido}")
                 st.rerun()
             except Exception as e:
                 _error(f"Error: {e}")
@@ -1031,6 +1094,7 @@ with tab_prevision:
                                 numero_pedido = norm_codigo(e_num) if e_num.strip() else None,
                             )
                             _success("Pedido pendiente actualizado.")
+                            set_last_update(mgr, f"Editar pendiente IDX:{idx_ed}")
                             st.rerun()
                         except Exception as e:
                             _error(f"Error: {e}")
@@ -1059,6 +1123,7 @@ with tab_prevision:
                         try:
                             mgr.prevision.delete_pending(int(idx_del))
                             _success("Pedido pendiente eliminado.")
+                            set_last_update(mgr, f"Eliminar pendiente IDX:{idx_del}")
                             st.rerun()
                         except Exception as e:
                             _error(f"Error: {e}")
@@ -1110,6 +1175,7 @@ with tab_prevision:
             try:
                 mgr.prevision.register_order(f_modelo, norm_talla(f_talla), int(f_cant), fecha=f_fecha or None)
                 _success("Orden de fabricación añadida.")
+                set_last_update(mgr, f"Orden fabricación + {f_modelo} T:{f_talla} Q:{int(f_cant)}")
                 st.rerun()
             except Exception as e:
                 _error(f"Error: {e}")
@@ -1133,6 +1199,7 @@ with tab_prevision:
                     try:
                         mgr.prevision.edit_fabrication_qty(int(idx_edit), int(nueva))
                         _success("Orden actualizada/eliminada.")
+                        set_last_update(mgr, f"Editar/Eliminar orden fabricación IDX:{idx_edit} Nueva:{int(nueva)}")
                         st.rerun()
                     except Exception as e:
                         _error(f"Error: {e}")
@@ -1184,6 +1251,7 @@ with tab_auditoria:
             try:
                 n = mgr.inventory.apply_stock_fixes(aplicar)
                 _success(f"Ajustes aplicados: {n}")
+                set_last_update(mgr, f"Auditoría: {n} ajustes aplicados")
             except Exception as e:
                 _error(f"Error aplicando ajustes: {e}")
 
@@ -1212,6 +1280,7 @@ with tab_auditoria:
             try:
                 n = mgr.inventory.regularize_history_to_current(aplicar2, fecha=fecha, observacion=obs)
                 _success(f"Asientos creados: {n}")
+                set_last_update(mgr, f"Regularización histórica: {n} asientos")
             except Exception as e:
                 _error(f"Error creando asientos: {e}")
 
@@ -1448,6 +1517,8 @@ with tab_backups:
                         get_manager.clear()
                         st.session_state["manager"] = get_manager(inv_path, prev_path, tall_path, cli_path)
                         _success(f"Restaurado '{sel}' en {destino}")
+                        set_last_update(mgr, f"Restaurado backup: {sel}")
+                        st.rerun()
                 except Exception as e:
                     _error(f"Error restaurando backup: {e}")
 
