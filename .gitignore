@@ -46,3 +46,10 @@ Thumbs.db
 # --- Copias y backups ---
 backups/
 Copiar_aqui_versiones_anteriores_antes_de_modificar/
+# Archivos de estado / temporales
+last_update.json
+*.csv
+*.xlsx
+__pycache__/
+.vscode/
+.DS_Store
